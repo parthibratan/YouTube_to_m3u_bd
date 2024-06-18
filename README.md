@@ -1,7 +1,7 @@
 
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/parthibratan/YouTube_to_m3u_bd/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/parthibratan/YouTube_to_m3u_bd/actions/workflows/m3u_Generator.yml)
 
 `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u`
 
@@ -14,7 +14,7 @@ Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
 Create a pull request or connect: https://discord.gg/dmgYmAEdee
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
+Paste this URL: `https://raw.githubusercontent.com/parthibratan/YouTube_to_m3u_bd/main/youtube.m3u` to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
