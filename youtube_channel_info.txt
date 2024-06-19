@@ -59,11 +59,14 @@ https://www.youtube.com/@SkyNews/live
 FOX Weather | News | https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png |
 https://www.youtube.com/@Foxweather/live
 
-NASA | English | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png |
+NASA | Entertainment | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png |
 https://www.youtube.com/@NASA/live
 
 Disney Channel | Entertainment | https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png |
 https://www.youtube.com/@disneychannel/live
+
+Nickelodeon | Entertainment | https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png |
+https://www.youtube.com/@Nickelodeon/live
 
 Disney XD | Entertainment | https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png |
 https://www.youtube.com/@disneyxd/live
