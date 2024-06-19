@@ -26,7 +26,7 @@ https://www.youtube.com/@IndependentTelevision/live
 Rtv | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png |
 https://www.youtube.com/@RtvNews/live
 
-DBC News | Bangla | https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png |
+DBC News | News | https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png |
 https://www.youtube.com/@dbcnewstv/live
 
 Ekhon TV | Bangla | https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png |
@@ -44,8 +44,32 @@ https://www.youtube.com/@livedeshtv/live
 Rtv Music | Music | https://commons.wikimedia.org/wiki/File:Rtvmusic-logo.png |
 https://www.youtube.com/@RtvMusic/live
 
+Arirang TV | Entertainment | https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png |
+https://www.youtube.com/@KOREAarirangTV/live
+
 CNA | News | https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png |
 https://www.youtube.com/@channelnewsasia/live
 
-Nat Geo WILD | English | https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png |
+LiveNOW from FOX | News | https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png |
+https://www.youtube.com/@livenowfox/live
+
+Sky News | News | https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png |
+https://www.youtube.com/@SkyNews/live
+
+FOX Weather | News | https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png |
+https://www.youtube.com/@Foxweather/live
+
+NASA | English | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png |
+https://www.youtube.com/@NASA/live
+
+Disney Channel | Entertainment | https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png |
+https://www.youtube.com/@disneychannel/live
+
+Disney XD | Entertainment | https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png |
+https://www.youtube.com/@disneyxd/live
+
+Discovery Australia | Entertainment | https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png |
+https://www.youtube.com/@DiscoveryAustralia/live
+
+Nat Geo WILD | Entertainment | https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png |
 https://www.youtube.com/@NatGeoWild/live
