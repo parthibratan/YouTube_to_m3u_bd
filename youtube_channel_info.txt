@@ -59,20 +59,11 @@ https://www.youtube.com/@SkyNews/live
 FOX Weather | News | https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png |
 https://www.youtube.com/@Foxweather/live
 
-NASA | Entertainment | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png |
-https://www.youtube.com/@NASA/live
-
-Disney Channel | Entertainment | https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png |
-https://www.youtube.com/@disneychannel/live
-
 Nickelodeon | Entertainment | https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png |
 https://www.youtube.com/@Nickelodeon/live
-
-Disney XD | Entertainment | https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png |
-https://www.youtube.com/@disneyxd/live
 
 Discovery Australia | Entertainment | https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png |
 https://www.youtube.com/@DiscoveryAustralia/live
 
-Nat Geo WILD | Entertainment |  |
-https://www.youtube.com/@NatGeoWild/live
+National Geographic | Entertainment | https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png |
+https://www.youtube.com/@NatGeo/live
