@@ -59,6 +59,9 @@ https://www.youtube.com/@SkyNews/live
 FOX Weather | News | https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png |
 https://www.youtube.com/@Foxweather/live
 
+Cartoon Network | Entertainment | https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png |
+https://www.youtube.com/@cartoonnetwork/live
+
 Nickelodeon | Entertainment | https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png |
 https://www.youtube.com/@Nickelodeon/live
 
