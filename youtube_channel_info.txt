@@ -58,9 +58,3 @@ https://www.youtube.com/@SkyNews/live
 
 FOX Weather | News | https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png |
 https://www.youtube.com/@Foxweather/live
-
-Nickelodeon | Entertainment | https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png |
-https://www.youtube.com/@Nickelodeon/live
-
-Discovery Australia | Entertainment | https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png |
-https://www.youtube.com/@DiscoveryAustralia/live
