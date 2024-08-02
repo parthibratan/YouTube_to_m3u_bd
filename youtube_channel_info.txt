@@ -58,3 +58,6 @@ https://www.youtube.com/@SkyNews/live
 
 FOX Weather | News | https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png |
 https://www.youtube.com/@Foxweather/live
+
+Al Jazeera | News | https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png |
+https://www.youtube.com/@aljazeeraenglish/live
