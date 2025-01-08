@@ -18,10 +18,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" tvg-id="", NTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736381557/ei/FcB-Z4zqHsT4sfIPuNXcqQM/ip/52.234.36.13/id/Y3hG2X_ih0I.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUDpwWwyG0LezdfnVZ1eOfJe8pvNwSPAn3PvCf68GlejKVgTi7NWGBZgzUkw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353497%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHfhM916klQ6x8JYbd4ljiLaRWz8Wp0HxggZNyntRxeYCIQCb7LpLSyFoDM3UIiwVIHqvx2zVwor5niT_hU_72pc0AQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFVxdB5tk0trTopkJmC1fUrciGDNWcdKSew&s" tvg-id="", Somoy TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736381558/ei/FsB-Z4azA-aQsfIPl6maoQM/ip/52.234.36.13/id/9PONc4b5g5A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUFMDiBAf815QXgdFHIqvwEiVpXQ4sLyms7XtZ2J9HDiXZBa9UUtiDIrWdYc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTaY_jP5wsVGd8d-9SkxAhdszs4zSQi3Vk_QtVaGVZ2gCIQDFnax0MSlVrGYvVoPPzW13vhHSfW2umjhR9tsq-gWxIQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" tvg-id="", ATN News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-id="", DBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736381563/ei/G8B-Z5aSI--XsfIP6I618AY/ip/52.234.36.13/id/6i5RTd05Cr4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/x-caUM3eYFGWy_EqhdizfwqqJerklyqdJ4LD0lvz67sPBFo5q2_hyPZ9acPG2l8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353497%2C51355912%2C51371294/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM-eRRqOdjEdYCdSjg1em53WZTfpKd5V2kbbbtqsWAbcCIDcHblNmX5w0T60tXFf2bw2-HiUEeqrSe3rNm3sdFTyA/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" tvg-id="", Ekhon TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png" tvg-id="", LiveNOW from FOX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736381572/ei/JMB-Z_23H-uXsfIPy6SYYA/ip/52.234.36.13/id/wGoTOHoZ-TM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUJUhCcorb9onS-Cl2w_0y2cvRUWMXQgn0olGHZRj0bY-h6vZXnXOFRGda6o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353497%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOzW7EkLKYolC-v7gIOpqGCgIFyzd_kATwuFGflkc_3UAiBq-aAvs1qUfY2VDWcUdrLfu9lQG34R-wftuTriM2QiMw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
