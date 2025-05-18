@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFVxdB5tk0trTopkJmC1fUrciGDNWcdKSew&s" tvg-id="", Somoy TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747551379/ei/MzApaMT8EYTZ2_gPlrW8uQY/ip/23.98.189.34/id/KhP0fz_8vzk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AecWEAZOHaslPx_YiL0fl8OpmyxkebhU1u6B0KVWyhyrgajOi_ROU9-msXn4lMvh9VnQdZ7oQ42lA967/spc/wk1kZpGmueNj2KXg2lJqorE84Fx_HiY5MT8-RRFVtkYUGprDLlEv3P2irZAHkqQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPcSyd4APO1dgu_Pk6L2bL-MUKCfNPVEgi8s4PB14-hACIQDXlbiXBYsXRnqJHK9RwjCtiM9f93Fmm4mxa8DrIAOozA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" tvg-id="", ATN News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
