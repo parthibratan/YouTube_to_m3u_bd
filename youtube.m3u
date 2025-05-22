@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" tvg-id="", Arirang TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747948287/ei/nz4vaIWrIqec2_gP_4-GiQc/ip/172.183.111.119/id/CJVBX7KI5nU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZqjOQr61Y-zR3bCwiN6FUf9CjSrPyGh9vxIg2PY0q3YsIoPKjXDZhNX5lbdi4bWMvx1Ap7FlWL/spc/wk1kZtJFWD7Ez5gOPTES6YMbjA4-GwJAqzjrL7cDSBVOG4eXMdvBF1q9NniKfBs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPXEqrs92kjq70Xcgc8ug1Vp0s3wPYIRr3-sZ8draiS5AiAFAInjQ5UIC_N5xUsMFvFe3YO-hv4OtY0h3vUGBlILiQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" tvg-id="", CNA
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
