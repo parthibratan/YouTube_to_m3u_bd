@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" tvg-id="", Jamuna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752106512/ei/sLFuaL_DB_yJ1NgPlJz6gAk/ip/52.252.179.241/id/jhEl7K3XfxA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLMXS1ZU16ADmuWXK5W-j9GnFR0r7Xd8VudP1NQTQw0ajat8hAO1cvqph_sBn0Sh2MtEgzoBJ-x0/spc/l3OVKT04UTes-xrdFE49OlFBRNFObU16iRz0AvtpiDfZ3ayoV91IXw44v0vAhed-Pz4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUn4LuOVdyx27hHZYF1xmuujd2kfL9meUVl-NPJoDef4CIQCu0CNyv8Vz3qns27VX2bM96uBrHdSHf6Wmd5_XlRAIfA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://seeklogo.com/images/C/channel-i-logo-F9F1100F83-seeklogo.com.png" tvg-id="", Channel i
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
