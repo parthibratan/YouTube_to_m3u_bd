@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753610504/ei/qKSFaKSRMOGTy_sPzo6W6Qk/ip/40.65.58.131/id/YDvsBbKfLPA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478320/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLPgV7PSQItv6SGMOnhkJXj1DbF8DEma74m-Ilx0rAcLOs2sdWooO9aDXa4BDFV8sl4QV4XMet9K/spc/l3OVKUHp1uHP1YHzjLTWDNnyk5-O5IYjXvDzbo3FemfXXPULvXPiBy9pU_KAkoqBtm0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOR7ra83xmWIivQe58DTuWe3Lm3lH9f9SosxPWbspOMsAiB61FAcm0gAQX37Rt7-RvtbmXOLhM486KA_CezudQFcnQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" tvg-id="", FOX Weather
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
