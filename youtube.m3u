@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" tvg-id="", Channel 24
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756847466/ei/Cgm3aLKCHtSolu8PofqHuAE/ip/13.83.160.136/id/XUk7kAEVBCM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOdUXIplQmNC_FzG8XzrWwujLJufu7LIfxSi9fcI_eDgbXNwp5hoqSmcs-K8m0vhA7CcIm4y9_l/spc/l3OVKQW63cZ4ucyIkRLmecHlG2GZCtJwaG4Nm2FJJFnIw6UhuyJ9CDR-Uii3LLc5XI0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIER8I4K9n8HvnYo-OLwDmL2A_ZohTdXmv58fCa0SHF8CIQDhvgJKVzLjrEziOCz2H6HNc_eD2lAGJRZJDpKx3NaAgQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/News24-logo.png" tvg-id="", News24
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
