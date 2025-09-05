@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?20230428172613" tvg-id="", Desh TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757128140/ei/bFG7aKn1BpWhlu8PidjrqQE/ip/57.151.128.133/id/tjALroNGjJs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51569666/txs/51569663%2C51569664%2C51569665%2C51569666/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLONKH15fwT_YubxMNkL6AJMh_5Q6Nn4aXQsCHzaEl-Qdub67suXTnH_Ng4uAuusD3zjJBQ30YE6/spc/l3OVKYCqcVdaQceloQ8L61vvhbxc9NIpNYHamY3HxN7N-_beDJNpjGLXxjTZkdorOV4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMbob6qtKOouep2Dy6cViCSPgTR59VZWYaYXxGVLHUUECIQCXdBkrX8XS1Sv3TLH3Z3GhatYu8wSCHHU3cGjqSXCKFQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Rtvmusic-logo.png" tvg-id="", Rtv Music
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
